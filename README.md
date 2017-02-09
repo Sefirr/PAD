@@ -1,0 +1,2 @@
+# PAD
+Proyecto realizado en la asignatura Programación de aplicaciones para dispositivos móviles en el curso 2015-2016. Bookalive es un lector de libros, que permite visualizar algunas palabras para que el libro se quede más vivo. Los libros están guardados en formato EPUB en un servidor- el usuario puede acceder al Marketplace, filtrar los libros por idioma y/o género, descargarles (por ahora son todos gratuitos) a su propio dispositivo y disfrutar de lectura "viva”.
